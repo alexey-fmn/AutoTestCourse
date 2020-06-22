@@ -1,2 +1,2 @@
 # AutoTestCourse
-homework for courses
+homework for courses https://stepik.org/course/575/
